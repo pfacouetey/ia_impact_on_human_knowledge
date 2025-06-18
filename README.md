@@ -99,7 +99,7 @@ This NetLogo model simulates the impact of artificial intelligence (AI) on the k
 
 ## Credits
 
-- Model author: [Your Name]
+- Model author: Prince Foli Acouetey
 - Inspired by NetLogo’s Wealth Distribution and Segregation models
 - Special thanks: Perplexity AI, Data ScienceTech Institute
 
