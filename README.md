@@ -75,8 +75,8 @@ This NetLogo model simulates the impact of artificial intelligence (AI) on the k
 ![Education Distribution Plot](images/education_distribution_plot.png)
 
 ### Interface and Agent Characteristics
-#### Model Interface
-![Interface](images/interface.png)
+#### Example of a simualiton run
+![Example of a simulation run](images/example_of_run.png.png)
 
 #### Person Characteristics Overview
 ![Person Characteristics](images/person_characteristics_overview.png)
