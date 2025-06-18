@@ -43,7 +43,7 @@ This NetLogo model simulates the impact of artificial intelligence (AI) on the k
 
 ### Running the Model
 
-1. Open `ia_impact_on_human_knowledge.nlogo` in NetLogo.
+1. Open `simulation_model.nlogo` in NetLogo.
 2. Set parameters (population, job market, AI, policy) using sliders and input boxes.
 3. Click **Setup** to initialize.
 4. Click **Go** to run the simulation.
