@@ -39,7 +39,7 @@ This NetLogo model simulates the impact of artificial intelligence (AI) on the k
 
 ### Requirements
 
-- NetLogo 6.4.0 or newer
+- Install, and run NetLogo 6.4.0 or newer
 
 ### Running the Model
 
