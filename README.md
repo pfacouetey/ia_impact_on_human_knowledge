@@ -42,7 +42,7 @@ This NetLogo model is a simulation intended for educational and exploratory purp
 
 ### Requirements
 
-- Install, and run NetLogo 6.4.0 or newer
+Install, and run NetLogo 6.4.0 or newer
 
 ### Running the Model
 
