@@ -1,5 +1,7 @@
 # Impact of AI on Human Knowledge — NetLogo Agent-Based Model
 
+![Model Interface](images/interface.png)
+
 ## Overview
 
 This NetLogo model simulates the impact of artificial intelligence (AI) on the knowledge, structure, and evolution of a society of workers. It explores how AI adoption, social networks, policy interventions, spatial migration, and generational change interact to shape human knowledge, skills, privacy, and decision-making over time.
@@ -57,12 +59,30 @@ This NetLogo model simulates the impact of artificial intelligence (AI) on the k
 - `Population_max_increase_per_tick` / `Population_max_death_per_tick`: Reproduction and death rates
 - `Max_time`: Simulation duration
 
-### Plots
+## Screenshots
 
-- Society Privacy Level
-- Society Decision Making Level
-- Society Knowledge
-- Society Education Distribution
+### Key Plots
+#### Society Privacy Level
+![Privacy Plot](images/privacy_plot.png)
+
+#### Society Decision Making Level
+![Decision Making Plot](images/decision_making_plot.png)
+
+#### Society Knowledge
+![Knowledge Plot](images/knowledge_plot.png)
+
+#### Society Education Distribution
+![Education Distribution Plot](images/education_distribution_plot.png)
+
+### Interface and Agent Characteristics
+#### Model Interface
+![Interface](images/interface.png)
+
+#### Person Characteristics Overview
+![Person Characteristics](images/person_characteristics_overview.png)
+
+#### Patch Characteristics Overview
+![Patch Characteristics](images/patch_characteristics_overview.png)
 
 ## Things to Notice
 
@@ -79,7 +99,7 @@ This NetLogo model simulates the impact of artificial intelligence (AI) on the k
 
 ## Credits
 
-- Model author: Prince Foli Acouetey
+- Model author: [Your Name]
 - Inspired by NetLogo’s Wealth Distribution and Segregation models
 - Special thanks: Perplexity AI, Data ScienceTech Institute
 
