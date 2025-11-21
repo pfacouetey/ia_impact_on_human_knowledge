@@ -104,7 +104,7 @@ This NetLogo model is a simulation intended for educational and exploratory purp
 
 - Model author: Prince Foli Acouetey
 - Inspired by NetLogo’s Wealth Distribution and Segregation models
-- Special thanks: Data ScienceTech Institute, Perplexity AI
+- Special thanks: Data ScienceTech Institute
 
 ## License
 
